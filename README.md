@@ -5,7 +5,7 @@
 ## 安装
 
 ```shell script
-$ sudo npm i -g @heytea/bundle-tool
+$ npm i -g @heytea/bundle-tool
 ```
 
 ## 使用方式
